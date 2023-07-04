@@ -1,0 +1,10 @@
+div{
+    border: 1px solid red;
+}
+div h1{
+    color: yellow;
+}
+div p{
+    background-color: black;
+    color: aliceblue;
+}
