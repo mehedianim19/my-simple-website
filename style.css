@@ -10,3 +10,11 @@ div p{
     background-color: black;
     color: aliceblue;
 }
+div h2{
+    background-color: aqua;
+    color: white;
+    border: 1px solid dotted;
+}
+div ul li{
+    color: green;
+}
