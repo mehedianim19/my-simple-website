@@ -18,3 +18,9 @@ div h2{
 div ul li{
     color: green;
 }
+#lol{
+    width: 400px;
+    height: 200px;
+    border: 1px solid;
+    box-shadow: 5px 5px 8px red, 5px 5px 8px green, 5px 5px 8px blue;
+}
